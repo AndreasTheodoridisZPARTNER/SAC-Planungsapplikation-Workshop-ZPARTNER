@@ -3,16 +3,17 @@ In dieser Session entsteht eine vollständige Planungsapplikation auf Basis der 
 
 ## Ablauf
 1. Begrüßung (10 min)
-2. Setup (20 min)
+2. Setup (10 min)
 3. Übung 1
-4. Pause
+4. ...
 5. Abschluss
 
 
-## Vorbereitung
-- Git installiert
-- GitHub Account
-- VS Code
+## ToDos
+- Anweisungen
+- Bilder
+- Code
+- ...
 
 Bild einfügen per drag and drop im editor:
 <img width="529" height="240" alt="DATASPHERE1" src="https://github.com/user-attachments/assets/1b66af6d-f8b3-4309-ad39-9198b0fe57f8" />
